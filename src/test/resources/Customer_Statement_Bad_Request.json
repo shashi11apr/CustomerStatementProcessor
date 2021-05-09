@@ -1,0 +1,26 @@
+[
+    {
+        "transactionReference": 120001,
+        "startBalance": "abcd",
+        "mutation": -300,
+        "endBalance": 700,
+        "description": "Tickets for cinema",
+        "accountNumber": "NL69ABNA0433641114"
+    },
+    {
+        "transactionReference": 120003,
+        "startBalance": 3000,
+        "mutation": -1500,
+        "endBalance": 1500,
+        "description": "Tickets from John",
+        "accountNumber": "NL93ABNA0585619023"
+    },
+    {
+        "transactionReference": 120003,
+        "startBalance": 501,
+        "mutation": 10,
+        "endBalance": 60,
+        "description": "Tulip from Peter",
+        "accountNumber": "NL74ABNA0248990274"
+    }
+]
